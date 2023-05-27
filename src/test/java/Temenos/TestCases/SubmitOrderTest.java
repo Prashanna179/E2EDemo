@@ -116,5 +116,10 @@ public class SubmitOrderTest extends BaseTest{
 		{
 			System.out.println("Letchu in GitY");
 		}
+		
+		public void mano()
+		{
+			System.out.println("Mano in GitX");
+		}
 }
 
