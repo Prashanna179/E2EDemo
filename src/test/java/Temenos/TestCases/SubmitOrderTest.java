@@ -106,5 +106,15 @@ public class SubmitOrderTest extends BaseTest{
 		{
 			System.out.println("Prashanna in GitX");
 		}
+		
+		public void dhiv()
+		{
+			System.out.println("Dhivyan in GitY");
+		}
+		
+		public void letchu()
+		{
+			System.out.println("Letchu in GitY");
+		}
 }
 
